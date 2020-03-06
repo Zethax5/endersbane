@@ -1,1 +1,1 @@
-execute if block ~ ~ ~ dispenser
+execute if block ~ ~ ~ dispenser{Items:[{Slot:0b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:1b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:2b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:3b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:4b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:5b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:6b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:7b,tag:{eb.item_id:"eb:demonic_nugget"}},{Slot:8b,tag:{eb.item_id:"eb:demonic_nugget"}}]} run function enderbane:crafting/chaos_stabilizer/craft_demonic_ingot
